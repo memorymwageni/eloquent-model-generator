@@ -29,6 +29,9 @@ class GeneratorServiceProvider extends ServiceProvider
         $this->commands([
             GenerateModelCommand::class,
         ]);
+         $this->commands([
+             GenerateAllModels::class
+         ]);
 
         $this->app->tag([
             ExistenceCheckerProcessor::class,
