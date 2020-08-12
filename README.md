@@ -1,6 +1,8 @@
 ## NOTE
 I have added a command to generate all models at once that was missing from original repo
-
+```
+php artisan krlove:generate:all-model
+```
 
 # Eloquent Model Generator
 
