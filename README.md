@@ -1,3 +1,7 @@
+## NOTE
+I have added a command to generate all models at once that was missing from original repo
+
+
 # Eloquent Model Generator
 
 Eloquent Model Generator is a tool based on [Code Generator](https://github.com/krlove/code-generator) for generating Eloquent models.
